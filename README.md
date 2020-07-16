@@ -11,9 +11,9 @@ This app is designed to provide weather forecast to the user. It uses 3 differen
 ## API Endpoints
 
 ```bash
-1. Mapbox GeoLocation 
-2. WeatherStack API -  for the weather forecast
-3. Unsplash Image API - for the dynamic background image for the searched location
+1. Mapbox GeoLocation (mapbox.com)
+2. WeatherStack API (https://weatherstack.com/)
+3. Unsplash Image API (https://api.unsplash.com/) 
 ```
 
 ## Technology
