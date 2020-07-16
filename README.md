@@ -21,7 +21,7 @@ This app is designed to provide weather forecast to the user. It uses 3 differen
 ```bash
 Node
 Express
-Handlebars - templating enginr
+Handlebars - templating engine
 HTML
 CSS
 JavaScript
